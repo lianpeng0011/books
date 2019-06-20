@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-service/netty-rpc-api/netty-rpc-api.iml" filepath="$PROJECT_DIR$/netty-rpc-service/netty-rpc-api/netty-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-client/netty-rpc-client.iml" filepath="$PROJECT_DIR$/netty-rpc-client/netty-rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-service/netty-rpc-provider/netty-rpc-provider.iml" filepath="$PROJECT_DIR$/netty-rpc-service/netty-rpc-provider/netty-rpc-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-rpc-service/netty-rpc-service.iml" filepath="$PROJECT_DIR$/netty-rpc-service/netty-rpc-service.iml" />
+    </modules>
+  </component>
+</project>
